@@ -1,0 +1,1 @@
+# N_Adet_Sayinin_Toplami_Carpimi_Ortalamasi
